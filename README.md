@@ -1,4 +1,4 @@
-# magalu-wordpress
+# Magalu Cloud - Wordpress Installer
 
 Instalador automatizado de WordPress para Ubuntu na Magalu Cloud.
 
