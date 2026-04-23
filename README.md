@@ -114,7 +114,7 @@ tail -f /var/log/wp-bootstrap.log
 - **Domínio não abriu:** confirme DNS apontando para o IP correto.
 - **SSL falhou:** geralmente DNS ainda não propagou.
 - **Permissão negada:** execute com `sudo`.
-- **Porta 80 bloqueada:** liberar firewall para HTTP/HTTPS.
+- **Porta 80/443 bloqueada:** liberar firewall para HTTP/HTTPS.
 
 ## 10) Segurança básica pós-instalação
 
