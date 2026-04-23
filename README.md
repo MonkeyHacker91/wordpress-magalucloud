@@ -116,7 +116,3 @@ Reiniciar Nginx:
 ```bash
 sudo systemctl restart nginx
 ```
-
----
-
-Se quiser, posso te passar uma versão com **backup automático** (banco + arquivos) antes de qualquer alteração.
